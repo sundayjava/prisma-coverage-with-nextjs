@@ -1,0 +1,22 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "express": "^4.19.2",
+    "prisma": "^5.12.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.5",
+    "ts-node": "^10.9.2"
+  }
+}
